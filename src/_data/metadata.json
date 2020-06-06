@@ -1,0 +1,9 @@
+{
+  "title": "Example Blog",
+  "url": "https://example.blog",
+  "description": "My first blog",
+  "author": {
+    "name": "Justin Sandahl",
+    "email": "me@test.com"
+  }
+}
